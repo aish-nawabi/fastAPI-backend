@@ -1,2 +1,3 @@
-# fastAPI-backend
-API for uploading PDFs, querying content via LLM, and managing data.
+
+<!-- • Building chat-based AI applications -->
+<!-- • Handling chat history and streaming responses -->

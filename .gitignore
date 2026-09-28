@@ -1,0 +1,8 @@
+# Environment variables (Secret Keys)
+.env
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.pyc
+venv/
+.venv/
